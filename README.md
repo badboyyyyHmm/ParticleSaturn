@@ -81,4 +81,4 @@ const particleCount = 800000; // 粒子总数
 ---
 
 *最后更新：2025年12月*  
-*modified with ❤️ and　<img src="https://registry.npmmirror.com/@lobehub/icons-static-svg@1.77.0/icons/trae-color.svg" alt="icon" style="height: 1.3em; vertical-align: baseline; transform: translateY(0.6em);" />  <img src="https://lf-cdn.trae.com.cn/obj/trae-com-cn/trae_website_prod_cn/static/image/footer.807f4742.png" alt="icon" style="height: 1em; vertical-align: baseline; transform: translateY(0.4em);" />*
+*modified with ❤️ and　<img src="https://unpkg.com/@lobehub/icons-static-svg@1.77.0/icons/trae-color.svg" alt="icon" style="height: 1.3em; vertical-align: baseline; transform: translateY(0.6em);" />  <img src="https://lf-cdn.trae.com.cn/obj/trae-com-cn/trae_website_prod_cn/static/image/footer.807f4742.png" alt="icon" style="height: 1em; vertical-align: baseline; transform: translateY(0.4em);" />*
