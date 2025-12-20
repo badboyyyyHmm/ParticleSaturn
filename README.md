@@ -44,6 +44,7 @@ const particleCount = 800000; // 粒子总数
 ```
 
 将 `800000` 改为更小的数值，如 `400000` 或 `200000`，可以显著提高性能，但也会降低视觉效果的细腻程度。
+反之，性能足够时将其改为更高的数值，如 `1200000`，可获得更细腻的视觉效果。
 
 ## 项目结构
 
@@ -71,9 +72,13 @@ const particleCount = 800000; // 粒子总数
 * **原始实现**：Mr.lun（[原始帖子](https://www.yjln.com/643.html)）
 * **优化改进**：[@badboyyyyHmm](https://github.com/badboyyyyHmm)
 
-正如原作者将作品分享出来一样，也希望这个版本能传递下去，让更多人感受技术与艺术结合的魅力。
+正如原作者将作品分享出来一样，这个项目存在的目的，就是让更多人感受技术与艺术结合的魅力。
+
+当然 AI 写的代码能好到哪里去🤷
+
+如果你实在闲得慌想为这个项目做贡献，非常欢迎。
 
 ---
 
 *最后更新：2025年12月*  
-*modified with ❤️ and TRAE AI*
+*modified with ❤️ and　<img src="https://unpkg.com/@lobehub/icons-static-svg@1.77.0/icons/trae-color.svg" alt="icon" style="height: 1.3em; vertical-align: baseline; transform: translateY(0.6em);" />  <img src="https://lf-cdn.trae.com.cn/obj/trae-com-cn/trae_website_prod_cn/static/image/footer.807f4742.png" alt="icon" style="height: 1em; vertical-align: baseline; transform: translateY(0.4em);" />*
